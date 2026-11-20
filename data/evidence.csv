@@ -1,0 +1,10 @@
+5001,1001,Login Activity Log,Multiple suspicious login attempts detected from an unknown device,Sample Server Log,5
+5002,1002,Email Evidence,Fake banking email containing a suspicious login link,Sample Email File,4
+5003,1003,Social Media Log,Unauthorized access detected on a social media account,Sample Activity Log,5
+5004,1004,Transaction Record,Unrecognized online transaction found in account history,Sample Transaction File,5
+5005,1005,Profile Screenshot,Fake social media profile created using victim identity,Sample Screenshot,3
+5006,1006,Email Header,Sender address appears forged in a suspicious email,Sample Email Header,4
+5007,1007,Chat Screenshot,Threatening messages received through social media,Sample Chat Record,2
+5008,1008,Database Log,Unauthorized access detected in a sample database log,Sample Database Log,5
+5009,1009,Website Snapshot,Unauthorized content changes found on a demonstration website,Sample Website Record,3
+5010,1010,Password Alert Log,Multiple failed login attempts followed by suspicious account access,Sample Security Log,4

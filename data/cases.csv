@@ -1,0 +1,10 @@
+1001,Abdullah Al Kawser,Unauthorized Account Access,Suspicious login attempts detected from an unknown device,OPEN,5
+1002,Rahim Ahmed,Phishing Attack,Victim received a fake banking email and shared login credentials,OPEN,4
+1003,Sadia Islam,Social Media Hacking,Facebook account accessed without user permission,INVESTIGATING,5
+1004,Hasan Mahmud,Online Financial Fraud,Unauthorized transaction detected from a suspicious account,OPEN,5
+1005,Nusrat Jahan,Identity Theft,Personal information used to create a fake social media profile,CLOSED,3
+1006,Tanvir Hasan,Email Spoofing,Attacker sent fraudulent emails using a forged sender address,INVESTIGATING,4
+1007,Mehedi Hasan,Cyberbullying,Victim received repeated threatening messages through social media,OPEN,2
+1008,Farhana Akter,Data Breach,Confidential user information exposed through an unsecured database,INVESTIGATING,5
+1009,Arif Hossain,Website Defacement,Unauthorized changes detected on a demonstration website,CLOSED,3
+1010,Imran Khan,Password Theft,Suspicious activity detected after credentials were compromised,OPEN,4
